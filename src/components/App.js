@@ -4,7 +4,7 @@ import Tours from "./Tours";
 const App = () => {
     return(
       <main id="main">
-        <Tours/>
+        <Tours />
       </main>
     )
 }
